@@ -1,3 +1,10 @@
-- This is a project I completed in my second year of university in which I worked with a team to produce a product that would analyse social media posts in a particular product category, analyse the posts, manage the data from the post analysis and allow a user to visualise it on an interactive map. The project also included graphs displaying statistics about the posts and advertisements, sentiment analysis of the posts and a website for the user to access the product through.
-- This code was created by the whole team, of which I was one member.
-- My primary role was data visulisation- taking the data given to me that came from the posts, manipulating it, plotting it and allowing the user to view the data in multiple differnt informative ways. My secondary roles included creating the graphs to display addional statistics and working on the website as well as connecting code with the rest of the team.
+# Frontend-group-project
+You will have to download the packages from requirements.txt (would reccommend a virtual environment)
+
+in your cmd when you are in the folder you want the venv:
+
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+
+This currently works on python 3.10.7
